@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-- 🔭 I’m currently working on [DnDCharacterGenerator](https://github.com/DBholt0311/DnDCharacterGenerator)
-
 - 📫 How to reach me **danielholt981@gmail.com**
 <p align="left">
 </p>
